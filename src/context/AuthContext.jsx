@@ -56,7 +56,7 @@ function throttle(fn, delay) {
  * Using Helius RPC for mainnet token balance checking
  */
 const HELIUS_RPC_URL = "https://lurleen-mzv5vx-fast-mainnet.helius-rpc.com"
-const TOKEN_MINT = "14bchn2mRCzMpQeD6zF3XqNYmdm2oMbFLARoqMNBpump"
+const TOKEN_MINT = "8LSpERCFafc1qfxrHVj4QaZ9k1jgNuUNAfVMJ9gApump"
 
 /**
  * Fetch SPL token balance from Solana mainnet using Helius RPC
