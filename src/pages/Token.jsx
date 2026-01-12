@@ -6,7 +6,7 @@ import { useState } from 'react'
 
 export default function Token() {
   const [copied, setCopied] = useState(false)
-  const contractAddress = 'NotLaunched' // Placeholder - replace with actual CA
+  const contractAddress = '8LSpERCFafc1qfxrHVj4QaZ9k1jgNuUNAfVMJ9gApump' // Placeholder - replace with actual CA
 
   const handleCopy = () => {
     navigator.clipboard.writeText(contractAddress)
